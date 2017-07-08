@@ -1,0 +1,6 @@
+[package]
+authors = ["Simon Walker <s.r.walker101@googlemail.com>"]
+name = "rfits"
+version = "0.1.0"
+
+[dependencies]
